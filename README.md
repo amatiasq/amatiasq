@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Ruby, Unity, Scala...**
 
-- 👨‍💻 All of my projects are available at [amatiasq.com](amatiasq.com)
+- 👨‍💻 All of my projects are available at [amatiasq.com](https://amatiasq.com)
 
-- 📝 I regularly write articles on [amatiasq.com](amatiasq.com)
+- 📝 I regularly write articles on [amatiasq.com](https://amatiasq.com)
 
 - 💬 Ask me about **Javascript, Typescript, React...**
 
 - 📫 How to reach me **amatiasq@gmail.com**
 
-- 📄 Know about my experiences [amatiasq.com/career](amatiasq.com/career)
+- 📄 Know about my experiences [amatiasq.com/career](https://amatiasq.com/career)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
