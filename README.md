@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pensieve](https://amatiasq.com/projects/pensieve)
 
-- 🌱 I’m currently learning **Ruby, Unity, Scala...**
+- 🌱 I’m currently learning **Rust, Unity, Scala...**
 
 - 👨‍💻 All of my projects are available at [amatiasq.com](https://amatiasq.com)
 
